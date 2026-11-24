@@ -1,0 +1,44 @@
+PRODUCT_SID (Global Product Identifier),SELLER_SKU,CATEGORY,CURRENCY,EG_PRICE (Price in EGP Currency),EG_SALE_PRICE (Sale Price in EGP Currency),EG_SALE_PRICE_START_AT (YYYY-MM-DD hh24:mm),EG_SALE_PRICE_END_AT (YYYY-MM-DD hh24:mm)
+e795f47c-6d3b-4598-9502-1c237ce6a793,27927,1002540 - Health & Beauty / Beauty & Personal Care / Hair Care / Styling Products / Styling Treatments,EGP,589.00,429.00,2026-11-24 07:00,2027-12-31 23:59
+925ed8a9-7631-429a-b1c1-17ef5ca97740,NIV-FACEWASH-ROSE-150,1006857 - Health & Beauty / Beauty & Personal Care / Personal Care / Skin Care / Face / Cleansers / Gels,EGP,539.00,399.00,2026-11-24 07:00,2027-12-31 23:59
+1397d1fe-ee65-4f2a-b534-62bf65c80a3a,65886,1004651 - Health & Beauty / Beauty & Personal Care / Personal Care / Deodorants & Antiperspirants / Deodorants,EGP,539.00,399.00,2026-11-24 07:00,2027-12-31 23:59
+f04b7e74-9046-4e18-af83-26a51207df9b,97642,1004651 - Health & Beauty / Beauty & Personal Care / Personal Care / Deodorants & Antiperspirants / Deodorants,EGP,539.00,399.00,2026-11-24 07:00,2027-12-31 23:59
+af2baa9c-8db1-4c2a-9510-cd0e87c0e3ac,31645,1001117 - Health & Beauty / Beauty & Personal Care / Hair Care / Hair & Scalp Care / Hair & Scalp Treatments,EGP,3419.00,2529.00,2026-11-24 07:00,2027-12-31 23:59
+4e9d00f7-2630-4d17-9e6f-ac2892d8a4fc,7766,1000641 - Health & Beauty / Beauty & Personal Care / Fragrance / Men's / Body Sprays,EGP,409.00,299.00,2026-11-24 07:00,2027-12-31 23:59
+4a59164f-5144-4996-87d0-cc9595c04e48,1585,1000641 - Health & Beauty / Beauty & Personal Care / Fragrance / Men's / Body Sprays,EGP,359.00,259.00,2026-11-24 07:00,2027-12-31 23:59
+09f2d467-1970-49e0-b590-dbdea5dc6f25,5352,1000641 - Health & Beauty / Beauty & Personal Care / Fragrance / Men's / Body Sprays,EGP,359.00,259.00,2026-11-24 07:00,2027-12-31 23:59
+d1454f76-e0bc-4dda-a752-aaafe163d643,6578,1004615 - Health & Beauty / Beauty & Personal Care / Personal Care / Deodorants & Antiperspirants / Antiperspirants,EGP,409.00,299.00,2026-11-24 07:00,2027-12-31 23:59
+28fc45bc-6a31-402c-b70b-a6614964db92,65688,1004615 - Health & Beauty / Beauty & Personal Care / Personal Care / Deodorants & Antiperspirants / Antiperspirants,EGP,409.00,299.00,2026-11-24 07:00,2027-12-31 23:59
+42cf8cdd-a673-4bf0-a39a-942fd9febd10,4988,1004651 - Health & Beauty / Beauty & Personal Care / Personal Care / Deodorants & Antiperspirants / Deodorants,EGP,449.00,329.00,2026-11-24 07:00,2027-12-31 23:59
+0cd3a7cf-6afc-4bb2-a93c-ef0adc699a6b,5785,1004651 - Health & Beauty / Beauty & Personal Care / Personal Care / Deodorants & Antiperspirants / Deodorants,EGP,449.00,329.00,2026-11-24 07:00,2027-12-31 23:59
+bd926e33-f418-4abc-9325-bf08c9502fb0,57887,1009497 - Health & Beauty / Health Care / Feminine Care / Deodorant Sprays,EGP,499.00,369.00,2026-11-24 07:00,2027-12-31 23:59
+7dfb683b-0b25-4f81-ab44-99c5dca7970c,98766,1009497 - Health & Beauty / Health Care / Feminine Care / Deodorant Sprays,EGP,499.00,369.00,2026-11-24 07:00,2027-12-31 23:59
+4bc31614-a1ef-4896-b382-bf703a5eccb6,34556,1009497 - Health & Beauty / Health Care / Feminine Care / Deodorant Sprays,EGP,499.00,369.00,2026-11-24 07:00,2027-12-31 23:59
+fe4f445d-e11d-4569-9a71-9c80d670dbed,87665,1009497 - Health & Beauty / Health Care / Feminine Care / Deodorant Sprays,EGP,499.00,369.00,2026-11-24 07:00,2027-12-31 23:59
+6a766a18-61c9-4e90-9f46-071049152b3a,65558,1009497 - Health & Beauty / Health Care / Feminine Care / Deodorant Sprays,EGP,499.00,369.00,2026-11-24 07:00,2027-12-31 23:59
+86f59c45-3b9b-4243-a03f-e2caab2a26a0,577788,1009497 - Health & Beauty / Health Care / Feminine Care / Deodorant Sprays,EGP,499.00,369.00,2026-11-24 07:00,2027-12-31 23:59
+b32ecffc-ebf5-46d9-8508-0b151fafba6c,815401017546,1002207 - Health & Beauty / Beauty & Personal Care / Hair Care / Shampoo / Daily Shampoo,EGP,1879.00,1389.00,2026-11-24 07:00,2027-12-31 23:59
+18a69ba8-5303-4780-943b-394a6853e40e,815401014415,1000366 - Health & Beauty / Baby & Child Care / Personal Care / Hair Care / Conditioners,EGP,2109.00,1559.00,2026-11-24 07:00,2027-12-31 23:59
+5541e528-a669-470d-9f75-93649adce5d5,77777,1004628 - Health & Beauty / Beauty & Personal Care / Personal Care / Deodorants & Antiperspirants / Combination Deodorants & Antiperspirants,EGP,869.00,639.00,2026-11-24 07:00,2027-12-31 23:59
+64254cca-c2a5-4ad8-a3ae-b4d266aacb6d,028167,1004628 - Health & Beauty / Beauty & Personal Care / Personal Care / Deodorants & Antiperspirants / Combination Deodorants & Antiperspirants,EGP,409.00,299.00,2026-11-24 07:00,2027-12-31 23:59
+e00957d7-5ca3-4b40-95af-54a808ed8410,1114519,1000641 - Health & Beauty / Beauty & Personal Care / Fragrance / Men's / Body Sprays,EGP,359.00,259.00,2026-11-24 07:00,2027-12-31 23:59
+7f76aeb4-abe5-4907-8b39-250bdca79617,866784,1006294 - Health & Beauty / Beauty & Personal Care / Personal Care / Skin Care / Body / Cleansers / Body Washes,EGP,359.00,259.00,2026-11-24 07:00,2027-12-31 23:59
+7cb3b820-0526-48f5-b694-f48ddfd65dc5,66838,1006294 - Health & Beauty / Beauty & Personal Care / Personal Care / Skin Care / Body / Cleansers / Body Washes,EGP,479.00,349.00,2026-11-24 07:00,2027-12-31 23:59
+8589ff34-26ba-4d32-96fc-e316bd42e608,66845,1006294 - Health & Beauty / Beauty & Personal Care / Personal Care / Skin Care / Body / Cleansers / Body Washes,EGP,479.00,349.00,2026-11-24 07:00,2027-12-31 23:59
+b8e9bda7-b6b3-4c1f-aa7e-fab84a87e049,66760,1006294 - Health & Beauty / Beauty & Personal Care / Personal Care / Skin Care / Body / Cleansers / Body Washes,EGP,359.00,259.00,2026-11-24 07:00,2027-12-31 23:59
+7f1e2e64-3861-4467-bf12-c5b7c0048175,66807,1006294 - Health & Beauty / Beauty & Personal Care / Personal Care / Skin Care / Body / Cleansers / Body Washes,EGP,479.00,349.00,2026-11-24 07:00,2027-12-31 23:59
+51f98c7d-8794-491b-9329-6c027c2fdc2f,66791,1006294 - Health & Beauty / Beauty & Personal Care / Personal Care / Skin Care / Body / Cleansers / Body Washes,EGP,479.00,349.00,2026-11-24 07:00,2027-12-31 23:59
+341404d8-cc8a-4a9b-8355-dd94abb94cbd,87303,1006370 - Health & Beauty / Beauty & Personal Care / Personal Care / Skin Care / Body / Moisturizers / Oils,EGP,1149.00,849.00,2026-11-24 07:00,2027-12-31 23:59
+ec8648c5-dc53-4d44-868c-c26c4b1d906e,15610,1002540 - Health & Beauty / Beauty & Personal Care / Hair Care / Styling Products / Styling Treatments,EGP,21779.00,16129.00,2026-11-24 07:00,2027-12-31 23:59
+53c5f9a1-6eea-4e80-a4e0-1aad601a1495,4712,1000374 - Health & Beauty / Baby & Child Care / Personal Care / Hair Care / Shampoos,EGP,1879.00,1389.00,2026-11-24 07:00,2027-12-31 23:59
+a10462d6-fa83-4d21-99e6-61256ea4a5ae,2633,1004142 - Baby Products / Bathing & Skin Care / Shampoo,EGP,1879.00,1389.00,2026-11-24 07:00,2027-12-31 23:59
+c8557b43-46f6-4bc1-9c44-66659e67ce09,5441,1002284 - Health & Beauty / Beauty & Personal Care / Hair Care / Styling Products / Detanglers,EGP,719.00,529.00,2026-11-24 07:00,2027-12-31 23:59
+daa05f5b-c44b-48c6-8202-9f8e4ab2af36,0977,1016489 - Health & Beauty / Personal Care / Skin Care / Face / Treatments & Masks / Serums,EGP,1419.00,1049.00,2026-11-24 07:00,2027-12-31 23:59
+86f9552f-b705-4fff-be85-6ba6f330efbf,4508,1017076 - Health & Beauty / Sexual Wellness / Safer Sex / Condoms / Male,EGP,339.00,249.00,2026-11-24 07:00,2027-12-31 23:59
+f21d0362-075a-4d45-bd08-9ed3b4fb4537,7623,1017106 - Health & Beauty / Sexual Wellness / Safer Sex / Lubricants / Water-Based Lubricants,EGP,529.00,389.00,2026-11-24 07:00,2027-12-31 23:59
+81daf3b1-c12c-4966-a595-b7d0277318ef,1463,1004167 - Baby Products / Bathing & Skin Care / Skin Care / Diaper Creams,EGP,939.00,689.00,2026-11-24 07:00,2027-12-31 23:59
+78cecc9f-7f7a-4426-b726-eb98d6dd4f64,0492,1004180 - Baby Products / Bathing & Skin Care / Skin Care / Lotions,EGP,629.00,459.00,2026-11-24 07:00,2027-12-31 23:59
+bd0f30b1-9f9c-420c-90b0-2c546aa25563,0478,1004180 - Baby Products / Bathing & Skin Care / Skin Care / Lotions,EGP,989.00,729.00,2026-11-24 07:00,2027-12-31 23:59
+1adc3da7-3fe0-411d-89be-ff4c8776dab1,00000,1000374 - Health & Beauty / Baby & Child Care / Personal Care / Hair Care / Shampoos,EGP,559.00,409.00,2026-11-24 07:00,2027-12-31 23:59
+af3ecbd1-6a3d-4d60-8250-3ff510febec9,0294,1000374 - Health & Beauty / Baby & Child Care / Personal Care / Hair Care / Shampoos,EGP,559.00,409.00,2026-11-24 07:00,2027-12-31 23:59
+a10d0088-7ef6-4c28-84db-92ddf0e2e9f4,EVS2,1001117 - Health & Beauty / Beauty & Personal Care / Hair Care / Hair & Scalp Care / Hair & Scalp Treatments,EGP,919.00,679.00,2026-11-24 07:00,2027-12-31 23:59
